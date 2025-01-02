@@ -1,2 +1,2 @@
 # Streamlit-Deployment
-Demo repositry to learn deployment on streamlit server.
+link: https://app-deployment-d5qtfxptpbtzwx4q97a6bn.streamlit.app/
